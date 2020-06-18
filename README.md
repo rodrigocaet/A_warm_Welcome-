@@ -1,4 +1,4 @@
-# data-science-portifolio
+# data-science-portfolio
 
 # In construction
 
