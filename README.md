@@ -42,6 +42,7 @@ I tried to optimize it and make a script that calculates the main results with l
 ## Non-Symbolic Weber Fraction
 ## Lateralidade
 ## Populism in Brazil and France
+It is a current project that involves analyzing the speech of the Brazilian President, Bolsonaro and compares it with the president of the political party of the National Rally, Marie Le Pen. My first task in this project was to scrap all Bolsonaro's speeches on the "Câmara dos Deputados" website. The next steps will be to create a classifier to differentiate the speeches of the two politicians and evaluate the words used, analysing their similarities using NLP techniques.
 
 ## Posters for scientific events
 
