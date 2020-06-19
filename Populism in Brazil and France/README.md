@@ -9,7 +9,7 @@ Here I put some screenshots to become easier to understand the project.
 
 When the search tool is used with the input "Jair Bolsonaro", the following web page appears:
 
-// image
+![Screen Shot 2020-06-19 at 16 56 10](https://user-images.githubusercontent.com/62617360/85176556-721f4080-b250-11ea-8b20-07cb4eba660d.png)
 
 In the table on the end of the page we can see a green icon in the "Discurso" column. This is the hyperlink to the speech made in this date.
 Our script goes to this hyperlink and gets its speech. A sample of the webpage for the first hyperlink can be seen bellow:
