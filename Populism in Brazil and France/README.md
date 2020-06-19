@@ -2,9 +2,9 @@
 
 It is still under construction, as the project is in its initial steps.
 
-The first code in this folder is an R script for web scrapping. With this code I got all Bolsonaro's speeches from the "Camara dos Deputados" website. This website has a transcript of all the speeches from Bolsonaro as well of other important politicians such as last presidents and other deputies made in this place that is more or less like a Parliament (with Brazilian specificities, of course).
+The first code in this folder is an R script for web scrapping. With this code I got all Bolsonaro's speeches when he was a deputy, from the "Camara dos Deputados" website. This website has a transcript of all the speeches from Bolsonaro as well as other deputies, so the first step was to filter only Bolsonaro's speeches.
 
-The link for the table with the links is: https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=jair+bolsonaro&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar
+The link for the table with hyperlinks to Bolsonaro's speeches is: https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=jair+bolsonaro&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar
 Here I put some screenshots to become easier to understand the project.
 
 When the search tool is used with the input "Jair Bolsonaro", the following web page appears:
