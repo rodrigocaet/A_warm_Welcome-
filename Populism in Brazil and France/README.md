@@ -14,7 +14,7 @@ When the search tool is used with the input "Jair Bolsonaro", the following web 
 In the table on the end of the page we can see a green icon in the "Discurso" column. This is the hyperlink to the speech made in this date.
 Our script goes to this hyperlink and gets its speech. A sample of the webpage for the first hyperlink can be seen bellow:
 
-// image
+![Screen Shot 2020-06-19 at 17 06 32](https://user-images.githubusercontent.com/62617360/85176533-616eca80-b250-11ea-9f86-28f0ee8aad11.png)
 
 Disclosure: all the screenshots, links and data were extracted on 19/06/2020, this can be changed in the future as speeches have been constantly added to this website.
 
