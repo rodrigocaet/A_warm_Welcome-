@@ -18,7 +18,7 @@ It is written in english because thats the language we use in some of the labora
 - **Non-Symbolic Weber Fraction:** This project has two scripts, one that I used for calculating the Weber Fraction (which is explained in the README of the folder and other that I used to check the results and present the improvements I made in comparison to other calculations made in the laboratory.
 
 ## Data visualization
-- [Posters and Graphics:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Posters%20and%20Graphics) it is common that psychology students present the research they are involved in congresses. Here I put one of those presentations, with the script I created to perform the analysis that I took to the congress. In the future I can put others presentations as well, but the script would be very similar, as I used ggplot2 in all of them and the graphics are similar to each other.
+- [Posters and Graphics:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Posters%20and%20Graphics) it is common that psychology students present the research they are involved in congresses. Here I put one of those presentations, with the script I created to perform the analysis that I took to the congress. In all posters I used ggplot2 to make the graphics and performed analysis such as t-tests, Mann-Whitney tests or correlations test in R, and most of them I don't have the script anymore, so I put two poster (each from one laboratory I worked for) as examples and the script of one of them.
 - [Scrips for LND:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Scripts%20for%20LND) in the automated descriptive analysis there is a lot of graphics as well.
 
 ## Inferential Statistics tests and Regressions
