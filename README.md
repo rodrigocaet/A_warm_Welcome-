@@ -15,7 +15,7 @@ It is written in english because thats the language we use in some of the labora
 
 ## Data Manipulation
 - [Scrips for LND:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Scripts%20for%20LND) Those are some scripts I made while working at the Laboratório de Neuropsicologia do Desenvolvimento and that are not tied to a specific project. In this folder there is a score-z script which I used to calculate the z-score in a fashion tipically used in Neuropsychology (and that is not the same way calculated in the R built-in function "scoreZ". There is also a script for doing descriptive analysis in an automated way, which we had to make everytime we merged datasets, to check it.
-- **Non-Symbolic Weber Fraction:**
+- **Non-Symbolic Weber Fraction:** This project has two scripts, one that I used for calculating the Weber Fraction (which is explained in the README of the folder and other that I used to check the results and present the improvements I made in comparison to other calculations made in the laboratory.
 
 ## Data visualization
 - [Posters and Graphics:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Posters%20and%20Graphics) it is common that psychology students present the research they are involved in congresses. Here I put one of those presentations, with the script I created to perform the analysis that I took to the congress. In the future I can put others presentations as well, but the script would be very similar, as I used ggplot2 in all of them and the graphics are similar to each other.
