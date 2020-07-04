@@ -38,3 +38,4 @@ It is written in english because thats the language we use in some of the labora
 
 - **Image Processing.**
 - **Kaggle Challenges**
+- **C and C#:** I took a course on introduction to programming where I learned C and a little bit of C#. I can make the scripts I created for the assignments available here in my portfolio.
