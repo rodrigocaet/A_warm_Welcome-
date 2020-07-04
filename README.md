@@ -29,9 +29,8 @@ It is written in english because thats the language we use in some of the labora
 - **Coursera Capstone:**
 
 
-
 ## Web-Scraping
-- **Populism in Brazil and France:**
+- [Populism in Brazil and France:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Populism%20in%20Brazil%20and%20France) the fisrt part of this project was to get speeches from the two polititians we will include in the study. The selected speeches fro Bolsonaro were the ones he profered at "Camara dos Deputados", a Brazilian political venue. Those speeches can be found in a website explained in the folder anda script in R was created to get them, also available in the folder.
 
 ### Future works:
 - **Natural Language Processing:** Populism in Brazil and France. It is a current project that involves analyzing the speech of the Brazilian President, Bolsonaro and compares it with the president of the political party of the National Rally in France, Marine Le Pen. The next steps will be to create a classifier to differentiate the speeches of the two politicians and evaluate the words used, analysing their similarities using NLP techniques.
