@@ -6,7 +6,7 @@
 
 This is my portifolio, where I put the codes and an explanation of some projects I have worked on. 
 Some of them are confidential and I cannot provide much information, such as making available the data I used or the 
-final conclusions.
+final conclusions. The title for each project has a link to the folder were all the shareable data is displayed.
 
 My programming skills are mainly on R and Python, each project will indicate in which language it was built.
 Here I'll write a little explanation of each project. They will have their own folder with the code and mor information.
@@ -14,15 +14,15 @@ Here I'll write a little explanation of each project. They will have their own f
 It is written in english because thats the language we use in some of the laboratories.
 
 ## Data Manipulation
-- **Scrips for LND:** Those are some scripts I made while working at the Laboratório de Neuropsicologia do Desenvolvimento and that are not tied to a specific project. In this folder there is a score-z script which I used to calculate the z-score in a fashion tipically used in Neuropsychology (and that is not the same way calculated in the R built-in function "scoreZ". There is also a script for doing descriptive analysis in an automated way, which we had to make everytime we merged datasets, to check it.
+- [Scrips for LND:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Scripts%20for%20LND) Those are some scripts I made while working at the Laboratório de Neuropsicologia do Desenvolvimento and that are not tied to a specific project. In this folder there is a score-z script which I used to calculate the z-score in a fashion tipically used in Neuropsychology (and that is not the same way calculated in the R built-in function "scoreZ". There is also a script for doing descriptive analysis in an automated way, which we had to make everytime we merged datasets, to check it.
 - **Non-Symbolic Weber Fraction:**
 
 ## Data visualization
-- **Project: Emotional Memory in ELA (amyotrophic lateral sclerosis) patients:** in this project, that was a part of a master thesis from a student that I worked with in my first research experience, I had to merge several datasets and work on them to make visualizations and make it possible to do inferential analysis. I don't have most of the scripts anymore, but one of them is a visualization plot that I presented in a congress. In this folder you can find the script and the poster I presented.
-- **Scrips for LND:** in the automated descriptive analysis there is a lot of graphics as well.
+- [Project: Emotional Memory in ELA (amyotrophic lateral sclerosis) patients:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Emotional%20Memory%20in%20ELA%20(amyotrophic%20lateral%20sclerosis)%20patients) in this project, that was a part of a master thesis from a student that I worked with in my first research experience, I had to merge several datasets and work on them to make visualizations and make it possible to do inferential analysis. I don't have most of the scripts anymore, but one of them is a visualization plot that I presented in a congress. In this folder you can find the script and the poster I presented.
+- [Scrips for LND:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Scripts%20for%20LND) in the automated descriptive analysis there is a lot of graphics as well.
 
 ## Inferential Statistics tests and Regressions
-- **Lateralidade:**
+- [Lateralidade:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Lateralidade)
 
 ## Machine Learning
 - **PCA:**
