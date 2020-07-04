@@ -39,3 +39,4 @@ It is written in english because thats the language we use in some of the labora
 - **Image Processing.**
 - **Kaggle Challenges**
 - **C and C#:** I took a course on introduction to programming where I learned C and a little bit of C#. I can make the scripts I created for the assignments available here in my portfolio.
+- **Monte-Carlo Simulations:** I am currently involved in a research in the Statistics Department of UFMG, where I analyse through Monte-Carlo simulations, the normality assumption for t-tests and the power curve of the most common goodness of fit tests. The script cannot be shared untill a paper of the research report is publicated.
