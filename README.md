@@ -18,8 +18,8 @@ It is written in english because thats the language we use in some of the labora
 - **Non-Symbolic Weber Fraction:**
 
 ## Data visualization
-- **Project: Emotional Memory in ELA (amyotrophic lateral sclerosis) patients:** in this project, that was a part of a master thesis from a student that I worked with in my first research experience, I had to merge several datasets and work on them to make visualizations and POSSIBILITAR inferential analysis. I don't have most of the scripts anymore, but one of them is a visualization plot that I presented in a congress. In this folder you can find the script and the poster I presented.
-- **Scrips for LND:** in the automated descriptive analysis there is a lot of graphs as well.
+- **Project: Emotional Memory in ELA (amyotrophic lateral sclerosis) patients:** in this project, that was a part of a master thesis from a student that I worked with in my first research experience, I had to merge several datasets and work on them to make visualizations and make it possible to do inferential analysis. I don't have most of the scripts anymore, but one of them is a visualization plot that I presented in a congress. In this folder you can find the script and the poster I presented.
+- **Scrips for LND:** in the automated descriptive analysis there is a lot of graphics as well.
 
 ## Inferential Statistics tests and Regressions
 - **Lateralidade:**
