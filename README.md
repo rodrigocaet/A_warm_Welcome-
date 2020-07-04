@@ -18,7 +18,7 @@ It is written in english because thats the language we use in some of the labora
 - **Non-Symbolic Weber Fraction:**
 
 ## Data visualization
-- [Project: Emotional Memory in ELA (amyotrophic lateral sclerosis) patients:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Emotional%20Memory%20in%20ELA%20(amyotrophic%20lateral%20sclerosis)%20patients) in this project, that was a part of a master thesis from a student that I worked with in my first research experience, I had to merge several datasets and work on them to make visualizations and make it possible to do inferential analysis. I don't have most of the scripts anymore, but one of them is a visualization plot that I presented in a congress. In this folder you can find the script and the poster I presented.
+- [Posters and Graphics:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Posters%20and%20Graphics) it is common that psychology students present the research they are involved in congresses. Here I put one of those presentations, with the script I created to perform the analysis that I took to the congress. In the future I can put others presentations as well, but the script would be very similar, as I used ggplot2 in all of them and the graphics are similar to each other.
 - [Scrips for LND:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Scripts%20for%20LND) in the automated descriptive analysis there is a lot of graphics as well.
 
 ## Inferential Statistics tests and Regressions
