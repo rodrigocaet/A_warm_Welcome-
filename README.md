@@ -1,6 +1,6 @@
 # data-science-portfolio
 
-# In construction
+# Under construction
 
 \#### Portuguese after English #### 
 
@@ -12,6 +12,32 @@ My programming skills are mainly on R and Python, each project will indicate in 
 Here I'll write a little explanation of each project. They will have their own folder with the code and mor information.
 
 It is written in english because thats the language we use in some of the laboratories.
+
+## Data Manipulation
+- **Scrips for LND:** Those are some scripts I made while working at the Laboratório de Neuropsicologia do Desenvolvimento and that are not tied to a specific project. In this folder there is a score-z script which I used to calculate the z-score in a fashion tipically used in Neuropsychology (and that is not the same way calculated in the R built-in function "scoreZ". There is also a script for doing descriptive analysis in an automated way, which we had to make everytime we merged datasets, to check it.
+- **Non-Symbolic Weber Fraction:**
+
+## Data visualization
+- **Project: Emotional Memory in ELA (amyotrophic lateral sclerosis) patients:** in this project, that was a part of a master thesis from a student that I worked with in my first research experience, I had to merge several datasets and work on them to make visualizations and POSSIBILITAR inferential analysis. I don't have most of the scripts anymore, but one of them is a visualization plot that I presented in a congress. In this folder you can find the script and the poster I presented.
+- **Scrips for LND:** in the automated descriptive analysis there is a lot of graphs as well.
+
+## Inferential Statistics tests and Regressions
+- **Lateralidade:**
+
+## Machine Learning
+- **PCA:**
+- **Coursera Capstone:**
+
+
+
+## Web-Scraping
+- **Populism in Brazil and France:**
+
+### Future works:
+- **Natural Language Processing:** Populism in Brazil and France.
+- **Image Processing.**
+- **Kaggle Challenges**
+
 
 ## The first project: Emotional Memory in ELA (amyotrophic lateral sclerosis) patients:
 This project was a master's thesis from the laboratory in which I worked.
