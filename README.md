@@ -34,45 +34,7 @@ It is written in english because thats the language we use in some of the labora
 - **Populism in Brazil and France:**
 
 ### Future works:
-- **Natural Language Processing:** Populism in Brazil and France.
+- **Natural Language Processing:** Populism in Brazil and France. It is a current project that involves analyzing the speech of the Brazilian President, Bolsonaro and compares it with the president of the political party of the National Rally in France, Marine Le Pen. The next steps will be to create a classifier to differentiate the speeches of the two politicians and evaluate the words used, analysing their similarities using NLP techniques.
+
 - **Image Processing.**
 - **Kaggle Challenges**
-
-
-## The first project: Emotional Memory in ELA (amyotrophic lateral sclerosis) patients:
-This project was a master's thesis from the laboratory in which I worked.
-
-It was my first hands-on experience with programming and with real datasets.
-As the master student and the rest of the team did not know how to program, I was responsible for mergind many datasets 
-(each for each patient included in the study) and prepare it for the analysis.
-
-The inferential analysis were performed in SPSS almost a year later, and I was not involve with the project at this time.
-
-## Basão
-In 2018, I started working in another laboratory called LND (Development Neuropsychology Laboratory - UFMG). 
-My main duty was to take care of the data sets for many projects. My knowledge and experience in dealing with different 
-data sets were utilized when the teacher asked me to merge the different data sets of the project and make some 
-transformations in the data.
-
-Mergind the data sets was not trivial because each project had used different neuropsychological tests and different tabulation formats.
-
-After that, I created a script for a data transformation very common in neuropsychology, calculating a patient's Z Score in a test.
-We generally calculate z scores based on age and other variables. Also we cannot use the R function already incorporated, 
-because in the laboratory we have some specificities explained in the folder.
-
-The last script I made for the entire lab was called "descriptive" and is an automated way to calculate descriptive parameters 
-from the data. In each new project or paper, the teacher asks the students to make several descriptive analyzes on our data and,
-before I starting to work in the laboratory this was done in SPSS. When I saw the time that students spent to do this, 
-I tried to optimize it and make a script that calculates the main results with less work.
-
-## Non-Symbolic Weber Fraction
-## Lateralidade
-## Populism in Brazil and France
-It is a current project that involves analyzing the speech of the Brazilian President, Bolsonaro and compares it with the president of the political party of the National Rally in France, Marine Le Pen. My first task in this project was to scrap all Bolsonaro's speeches on the "Câmara dos Deputados" website. The next steps will be to create a classifier to differentiate the speeches of the two politicians and evaluate the words used, analysing their similarities using NLP techniques.
-
-## Posters for scientific events
-
-## Coursera Capstone (and CS50?)
-
-## Kaggle
-## PCA
