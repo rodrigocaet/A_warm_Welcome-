@@ -8,7 +8,7 @@ What people would notice about the weights would vary with the magnitude of the 
 
 *i being the magnitude of the stimulus and Δi the difference between the magnitudes*
 
-### Weber Fraction in the study of Math Learning
+### Weber Fraction in the study of Math Learning Disabilities
 The Non-Symbolic Weber Fraction is a measure of how a person perceive quantities presented in a way they cannot count, such as a number of dots in a screen.
 In the Developmental Neuropsychologgy Laboratory, was created three tasks that shows two arrays of points in a screen to a child and they should say which one has more points.
 The accuracy usually increases as the difference between the two arrays increases. In the formula, the difference is the *Δi* and the magnitude of refference is *i*.
