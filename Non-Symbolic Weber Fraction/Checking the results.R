@@ -78,7 +78,7 @@ planEndo %>%
   is.na() %>%
   colSums()
 
-## Checking if the Id in the spreadshit "escola" match the basao Identification
+## Checking if the Id in the spreadsheet "escola" match the basao Identification
 for (i in 1:length(planEndo$link)){
   if(planEndo$link[i] %in% basao2$Identification){
     t <- 1
