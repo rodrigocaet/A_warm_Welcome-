@@ -21,7 +21,7 @@ It is written in english because thats the language we use in some of the labora
 
 ## Inferential Statistics tests, Regressions and Machine Learning
 - [Lateralidade:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Lateralidade)
-- [Coursera Capstone:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Coursera%20Capstone) this repository was made with the material I made for the last course of the "IBM Data Science Professional Certificate", availabe in Coursera. This project consists of custering the capital from each state of Brazil by the similarities of its stores and market. A K-means algorithm was applied after we got the information about each cities' venues in Fourquare.
+- [Coursera Capstone:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Coursera_Capstone) this repository was made with the material I made for the last course of the "IBM Data Science Professional Certificate", availabe in Coursera. This project consists of custering the capital from each state of Brazil by the similarities of its stores and market. A K-means algorithm was applied after we got the information about each cities' venues in Fourquare.
 
 ## Web-Scraping
 - [Populism in Brazil and France:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Populism%20in%20Brazil%20and%20France) the fisrt part of this project was to get speeches from the two polititians we will include in the study. The selected speeches fro Bolsonaro were the ones he profered at "Camara dos Deputados", a Brazilian political venue. Those speeches can be found in a website explained in the folder anda script in R was created to get them, also available in the folder.
