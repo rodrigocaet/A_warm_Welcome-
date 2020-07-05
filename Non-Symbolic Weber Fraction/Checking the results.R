@@ -44,11 +44,11 @@ planDiscalc %>%
 
 ########Work with the Endofenotipos project ########
 
-## On the spreadshits from this project, the name of the children on the task wasnt the name in project, they had this "codigo escolas" spreadshit as a link. Here I manage to get the identifications by those spreadshits.
+## On the spreadsheets from this project, the name of the children on the task wasnt the name in project, they had this "codigo escolas" spreadsheet as a link. Here I manage to get the identifications by those spreadsheets.
 plan1$Criança[is.na(plan1$Criança)] <- "erro"
 plan1$link = rep(NA,length(plan1$Planilha))
 escolasNULAS <- c()
-setwd("~/Desktop/escolas_código")
+setwd("~/Desktop/escolas_código")
 planilhas <- c(list.files(getwd(),recursive=T))
 for(escola in planilhas){
   link <- read_xlsx(escola)
