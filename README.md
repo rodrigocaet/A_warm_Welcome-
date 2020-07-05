@@ -28,8 +28,6 @@ It is written in english because thats the language we use in some of the labora
 
 ### Future works:
 - **Natural Language Processing:** Populism in Brazil and France. It is a current project that involves analyzing the speech of the Brazilian President, Bolsonaro and compares it with the president of the political party of the National Rally in France, Marine Le Pen. The next steps will be to create a classifier to differentiate the speeches of the two politicians and evaluate the words used, analysing their similarities using NLP techniques.
-- **Image Processing.**
-- **Kaggle Challenges.**
 - **PCA:** I made a course on Coursera about Principal Components Analysis and applied the knowledge in data from LND. The script and results will soon be made available.
 - **C and C#:** I took a course on introduction to programming where I learned C and a little bit of C#. I can make the scripts I created for the assignments available here in my portfolio.
 - **Monte-Carlo Simulations:** I am currently involved in a research in the Statistics Department of UFMG, where I analyse through Monte-Carlo simulations, the normality assumption for t-tests and the power curve of the most common goodness of fit tests. The script cannot be shared untill a paper of the research report is publicated.
