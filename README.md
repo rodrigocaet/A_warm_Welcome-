@@ -26,7 +26,7 @@ It is written in english because thats the language we use in some of the labora
 
 ## Machine Learning
 - **PCA:**
-- **Coursera Capstone:**
+- [Coursera Capstone:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Coursera%20Capstone) this repository was made with the material I made for the last course of the "IBM Data Science Professional Certificate", availabe in Coursera. This project consists of custering the capital from each state of Brazil by the similarities of its stores and market. A K-means algorithm was applied after we got the information about each cities' venues in Fourquare.
 
 
 ## Web-Scraping
