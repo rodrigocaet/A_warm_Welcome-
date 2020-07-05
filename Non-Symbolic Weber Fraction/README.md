@@ -5,8 +5,7 @@ A fully known example is when someone carry a weight with one hand and another w
 What people would notice about the weights would vary with the magnitude of the weights according to the formula bellow.
 
 #### K = delta(i)/i
-
-*i being the magnitude of the stimulus and delta(i) the difference between the magnitudes
+*i being the magnitude of the stimulus and delta(i) the difference between the magnitudes*
 
 ### Weber Fraction in the study of Math Learning
 The Non-Symbolic Weber Fraction is a measure of how a person perceive quantities presented in a way they cannot count, such as a number of dots in a screen.
