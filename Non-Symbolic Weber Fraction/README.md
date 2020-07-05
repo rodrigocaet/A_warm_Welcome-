@@ -1,7 +1,7 @@
 ### Quick introduction of what is Weber Fraction
 
-The weber fraction is a known Neuropsychological construct that takes in account how the brain process information of different magnitudes of the same type.
-A fully known example is when someone carry a weight with one hand and another weight with the other, one weighting the double of the other, people cannot tell if its exactelly the double or not.
+The weber fraction is a known neuropsychological construct that takes into account how the brain processes information of the same type in different magnitudes of the same type.
+A fully known example is when someone carries one weight with one hand and another weight with the other hand, one weighting twice as much of the other, people cannot tell if its exactelly the double or not.
 
 What people would notice about the weights would vary with the magnitude of the weights according to the formula bellow.
 
