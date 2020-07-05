@@ -19,10 +19,8 @@ It is written in english because thats the language we use in some of the labora
 ## Data visualization
 - [Posters and Graphics:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Posters%20and%20Graphics) it is common that psychology students present the research they are involved in congresses. Here I put one of those presentations, with the script I created to perform the analysis that I took to the congress. In all posters I used ggplot2 to make the graphics and performed analysis such as t-tests, Mann-Whitney tests or correlations test in R, and most of them I don't have the script anymore, so I put two poster (each from one laboratory I worked for) as examples and the script of one of them.
 
-## Inferential Statistics tests and Regressions
+## Inferential Statistics tests, Regressions and Machine Learning
 - [Lateralidade:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Lateralidade)
-
-## Machine Learning
 - [Coursera Capstone:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Coursera%20Capstone) this repository was made with the material I made for the last course of the "IBM Data Science Professional Certificate", availabe in Coursera. This project consists of custering the capital from each state of Brazil by the similarities of its stores and market. A K-means algorithm was applied after we got the information about each cities' venues in Fourquare.
 
 ## Web-Scraping
