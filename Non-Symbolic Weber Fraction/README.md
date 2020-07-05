@@ -4,7 +4,8 @@ The weber fraction is a known Neuropsychological construct that takes in account
 A fully known example is when someone carry a weight with one hand and another weight with the other, one weighting the double of the other, people cannot tell if its exactelly the double or not.
 What people would notice about the weights would vary with the magnitude of the weights according to the formula bellow.
 
-#### K = delta(i)/i
+**K = delta(i)/i** 
+
 *i being the magnitude of the stimulus and delta(i) the difference between the magnitudes*
 
 ### Weber Fraction in the study of Math Learning
