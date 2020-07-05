@@ -11,7 +11,7 @@ What people would notice about the weights would vary with the magnitude of the 
 ### Weber Fraction in the study of Math Learning
 The Non-Symbolic Weber Fraction is a measure of how a person perceive quantities presented in a way they cannot count, such as a number of dots in a screen.
 In the Developmental Neuropsychologgy Laboratory, was created three tasks that shows two arrays of points in a screen to a child and they should say which one has more points.
-The accuracy usually increases as the difference between the two arrays increases. In the formula, the difference is the **DELTA I** and the magnitude of refference is **I.**
+The accuracy usually increases as the difference between the two arrays increases. In the formula, the difference is the *Δi* and the magnitude of refference is *i*.
 
 To calculate the Non-Symbolic Weber Fraction for each child, we had to work on the spreadshit given to us as a result of . We also calculated the fit and Rsquared for each children, and some other variables that would help us to know if the function really applied to that child and would facilitates for us to extract more information and not only the Weber Fraction for each child.
 
