@@ -13,7 +13,7 @@ Here I'll write a little explanation of each project. They will have their own f
 
 It is written in english because thats the language we use in some of the laboratories.
 
-## Data Manipulation
+## Data Manipulation and Transformation
 - [Non-Symbolic Weber Fraction:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Non-Symbolic%20Weber%20Fraction) This project has two scripts, one that I used for calculating the Weber Fraction (which is explained in the README of the folder) and other that I used to check the results and present the improvements I made in comparison to other calculations made in the laboratory.
 
 ## Data visualization
