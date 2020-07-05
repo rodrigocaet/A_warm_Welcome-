@@ -14,7 +14,7 @@ Here I'll write a little explanation of each project. They will have their own f
 It is written in english because thats the language we use in some of the laboratories.
 
 ## Data Manipulation
-- **Non-Symbolic Weber Fraction:** This project has two scripts, one that I used for calculating the Weber Fraction (which is explained in the README of the folder) and other that I used to check the results and present the improvements I made in comparison to other calculations made in the laboratory.
+- [Non-Symbolic Weber Fraction:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Non-Symbolic%20Weber%20Fraction) This project has two scripts, one that I used for calculating the Weber Fraction (which is explained in the README of the folder) and other that I used to check the results and present the improvements I made in comparison to other calculations made in the laboratory.
 
 ## Data visualization
 - [Posters and Graphics:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Posters%20and%20Graphics) it is common that psychology students present the research they are involved in congresses. Here I put one of those presentations, with the script I created to perform the analysis that I took to the congress. In all posters I used ggplot2 to make the graphics and performed analysis such as t-tests, Mann-Whitney tests or correlations test in R, and most of them I don't have the script anymore, so I put two poster (each from one laboratory I worked for) as examples and the script of one of them.
