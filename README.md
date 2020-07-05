@@ -32,7 +32,9 @@ It is written in english because thats the language we use in some of the labora
 ### Future works:
 - **Natural Language Processing:** Populism in Brazil and France. It is a current project that involves analyzing the speech of the Brazilian President, Bolsonaro and compares it with the president of the political party of the National Rally in France, Marine Le Pen. The next steps will be to create a classifier to differentiate the speeches of the two politicians and evaluate the words used, analysing their similarities using NLP techniques.
 - **Image Processing.**
-- **Kaggle Challenges**
+- **Kaggle Challenges.**
 - **C and C#:** I took a course on introduction to programming where I learned C and a little bit of C#. I can make the scripts I created for the assignments available here in my portfolio.
 - **Monte-Carlo Simulations:** I am currently involved in a research in the Statistics Department of UFMG, where I analyse through Monte-Carlo simulations, the normality assumption for t-tests and the power curve of the most common goodness of fit tests. The script cannot be shared untill a paper of the research report is publicated.
+
+### Checking the bureaucracies of publishing
 - **Data Manipulation and Visualization:** (Scrips for LND) Some scripts I made while working at the Laboratório de Neuropsicologia do Desenvolvimento and that are not tied to a specific project. In this folder I will put a score-z script which I used to calculate the z-score in a fashion tipically used in Neuropsychology (and that is not the same way calculated in the R built-in function "scale"). There is also a script for doing descriptive analysis with several visuaizations and that can be runned in an automated way, which we used to check the results of merging datasets.
