@@ -6,7 +6,7 @@ library(dplyr)
 
 WeberROD <- function(dataframe,logname) {
   
-  ## Se what task was the spreadshit from
+  ## Se what task was the spreadsheet from
   if (ncol(dataframe) == 10){
     referencia = "16e32"
   }else if (ncol(dataframe) == 9){
