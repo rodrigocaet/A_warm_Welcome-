@@ -1,3 +1,5 @@
+## Aknowledments: Pedro Pineiro Chagas and Ricado Jose de Moura for creating a function for calculating the Weber Fraction in other tasks and circuntances but that helped me to create this scprit, thank you!
+
 library(stringr) 
 library(readxl)
 library(dplyr)
