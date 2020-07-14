@@ -26,6 +26,9 @@ It is written in english because thats the language we use in some of the labora
 ## Web-Scraping
 - [Populism in Brazil and France:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Populism%20in%20Brazil%20and%20France) the fisrt part of this project was to get speeches from the two polititians we will include in the study. The selected speeches fro Bolsonaro were the ones he profered at "Camara dos Deputados", a Brazilian political venue. Those speeches can be found in a website explained in the folder anda script in R was created to get them, also available in the folder.
 
+### Tools
+- [Power BI:](https://github.com/rodrigocaet/data-science-portfolio/tree/master/Populism%20in%20Brazil%20and%20France) dashboard with the Titanic data (available in several places on internet). In the dashboard I had to create new variables, check which variables were more important (by the fit in a logistic regression, because the outcome was binary - survived or not) and build graphics with the most important informations.
+
 ### Future works:
 - **Natural Language Processing:** Populism in Brazil and France. It is a current project that involves analyzing the speech of the Brazilian President, Bolsonaro and compares it with the speech of Marine Le Pen, a french politician. The next steps will be to create a classifier to differentiate their speeches and evaluate the words used, analysing their similarities using NLP techniques.
 - **PCA:** I made a course on Coursera about Principal Components Analysis and applied the knowledge in data from LND. The script and results will soon be made available.
