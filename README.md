@@ -2,8 +2,6 @@
 
 # Under construction
 
-\#### Portuguese after English #### 
-
 This is my portifolio, where I put the codes and an explanation of some projects I have worked on. 
 Some of them are confidential and I cannot provide much information, such as making available the data I used or the 
 final conclusions. The title for each project has a link to the folder were all the shareable data is displayed.
